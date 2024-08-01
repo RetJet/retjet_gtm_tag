@@ -1,0 +1,5 @@
+homepage: "https://retjet.com"
+documentation: "https://github.com/RetJet/retjet_gtm_tag/wiki"
+versions:
+  - sha: 8baa655711a417577d05d7805da74ebabd12d110
+    changeNotes: Initial release.
